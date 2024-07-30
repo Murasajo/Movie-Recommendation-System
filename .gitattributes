@@ -1,0 +1,2 @@
+genome_scores.csv filter=lfs diff=lfs merge=lfs -text
+kaggle_submission.csv filter=lfs diff=lfs merge=lfs -text
